@@ -35,8 +35,8 @@ Drivermanager.java ─a ├a. ├── Logger.java │ ├── MyTestWatcher.
 
 - Java
 - Maven
-- Selenium / Appium
-- TestNG / AssertJ
+- Selenium
+- TestNG
 - ReportPortal
 - JUnit 5
 
