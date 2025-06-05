@@ -38,7 +38,6 @@ Drivermanager.java ─a ├a. ├── Logger.java │ ├── MyTestWatcher.
 - Selenium / Appium
 - TestNG / AssertJ
 - ReportPortal
-- okhttp3
 - JUnit 5
 
 ---
@@ -55,18 +54,10 @@ ResponsiveManager – מחליף בין אסטרטגיות תצוגה שונות
 FormTestResult – מרכז את תוצאות הבדיקה.
 
 📂 דוחות ותוצרים
-התוצאות מופיעות ב-ReportPortal (אם מוגדר).
+התוצאות מופיעות ב-ReportPortal 
 
 תמונות מה בדיקה נשמרות בתיקיית /screenshots.
 
-📌 רעיונות לפיתוח עתידי
-תמיכה בבדיקות נגישות (לדוגמה aria-label, tabIndex)
-
-בדיקת טפסים בשפות שונות (לוקיזציה)
-
-תמיכה מלאה באייפון
-
-תוספת ולידיציות מותאמות אישית לפי סוג שדה
 
 🧑‍💻 נבנה על ידי אפרת לרר
 חלק פרויקט פרקטיקום באוטומציה בחברת VERYSOFT
