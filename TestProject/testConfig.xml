@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <url>https://talents.brightsource.com/reg</url>
+    <browser>CHROME</browser>
+    <timeout>10</timeout>
+    <environment>QA</environment>
+    <screenshotOnFailure>true</screenshotOnFailure>
+    <formId>help-hero-form</formId>
+
+</config>
